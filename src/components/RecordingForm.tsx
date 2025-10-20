@@ -35,7 +35,6 @@ const supportedMimeTypes = [
   "video/webm; codecs=vp8",
   "video/mp4; codecs=h.264",
   "video/webm",
-  "video/webm",
 ]
 
 export const RecordingForm: React.FC<RecordingFormProps> = ({
